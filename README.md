@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science Student  
+## I'm a Computer Science and CyberSec Student  🐱‍💻
 
-- 👨‍💻 I’m currently working on cyber security field like Network Tentest, Web App Testing etc...
+- 👨‍💻 I’m currently working on cyber security field like Network Pentesting, Web App Testing etc...
 - 📚 I’m currently learning everything about Hacking and Security technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Games and listen to Music 🎮.
+- 💪🏼 Future Goals : Have my own company - Never stop helping others.
+- ⚡ Fun fact : I love to play Games and listen to Music 🎮.
 
 ---
 
@@ -24,8 +24,7 @@
 
 
 
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mortada-Cherrak&repo=Auto-Map)&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src=" https://komarev.com/ghpvc/?username=3xTpA&color=blueviolet&style=plastic" alt="3xTpA" width="120" height="27" />
 
 ### Contact with me 📝
 
@@ -42,23 +41,21 @@
 
 ### Languages and Tools 🛠 
 
-### ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+### ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)![Shell](http://img.shields.io/badge/-Bash-343d52?style=flat-square&logo=Shell)![Debian](http://img.shields.io/badge/-Debian-8B0000?style=flat-square&logo=Debian)
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Shell](http://img.shields.io/badge/-Bash-343d52?style=flat-square&logo=Shell)
-![Linux](http://img.shields.io/badge/-Linux-FF0000?style=flat-square&logo=Linux)
+------
+
+###     My Github Data  📊
+
+![Mortada Cherrak github stats](https://github-readme-stats.vercel.app/api?username=3xTpA&count_private=true&show_icons=true&theme=radical)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xTpA&layout=compact&theme=gotham" />
 
 ---
 
- 
 ### ⭐ Thank You 
-<img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-<br />
+<img align="center" alt="GIF" height="400" width="600" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
 
----
+
 

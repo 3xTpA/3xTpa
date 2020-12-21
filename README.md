@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on cyber security field like Network Pentesting, Web App Testing etc...
 - 📚 I’m currently learning everything about Hacking and Security technologies 😅
 - 💪🏼 Future Goals : Have my own company - Never stop helping others.
-- ⚡ Fun fact : I love to play Games and listen to Music 🎮.
+- ⚡ Fun fact : I love to sing and listen to Music 🎮.
 
 ---
 

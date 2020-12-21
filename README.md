@@ -33,7 +33,7 @@
    <a href="https://www.instagram.com/mortadacherrak">
    <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" /></a>
    <a href="https://twitter.com/3xTpA">
-   <img align="left" alt="bilgehangecici | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383265.svg" /></a>
+   <img align="left" alt="3xTpA | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383265.svg" /></a>
 
 <br />
 

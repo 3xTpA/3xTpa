@@ -2,12 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and CyberSec Student  🐱‍💻
+## I'm a Computer Science and CyberSec Researcher  🐱‍💻
 
-- 👨‍💻 I’m currently working on cyber security field like Network Pentesting, Web App Testing etc...
 - 📚 I’m currently learning everything about Hacking and Security technologies 😅
 - 💪🏼 Future Goals : Have my own company - Never stop helping others.
-- ⚡ Fun fact : I love to sing and listen to Music 🎮.
+- ⚡ Fun fact : I love travelling and meditating 🧘.
 
 ---
 
@@ -19,23 +18,24 @@
   <b>Currently Playing🎶...</b><br><br>
   <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/n0hoht5mougelvmzi1g5f7a3w"/>
 </p>
-<hr>
-<!-- can't stop myself from editing🤷... -->
 
+<!-- can't stop myself from editing🤷... -->
 
 
 <img align="right" src=" https://komarev.com/ghpvc/?username=3xTpA&color=blueviolet&style=plastic" alt="3xTpA" width="120" height="27" />
 
+<hr>
+
 ### Contact with me 📝
 
    <a href="https://www.linkedin.com/in/mortada-cherrak">
-   <img align="left" alt="mortada-cherrak | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/></a>
+   <img align="left" alt="mortada-cherrak | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1635678261~hmac=00164e926ba0aab7ff1dd6a785b952b5"/></a>
    <a href="https://www.instagram.com/mortadacherrak">
-   <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" /></a>
+   <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1635678200~hmac=6c909cdfd7d4011a43537fc22425bbce" /></a>
    <a href="https://twitter.com/3xTpA">
-   <img align="left" alt="3xTpA | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383265.svg" /></a>
+   <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1635678232~hmac=8f1ea20c6b07ce0caa8797b682493062" /></a>
 
-<br />
+<br/>
 
 ---
 

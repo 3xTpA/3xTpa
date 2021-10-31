@@ -22,7 +22,7 @@
 <!-- can't stop myself from editing🤷... -->
 
 
-<img align="right" src=" https://komarev.com/ghpvc/?username=3xTpA&color=blueviolet&style=plastic" alt="3xTpA" width="120" height="27" />
+<!-- img align="right" src=" https://komarev.com/ghpvc/?username=3xTpA&color=blueviolet&style=plastic" alt="3xTpA" width="120" height="27" / -->
 
 <hr>
 

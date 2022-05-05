@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning everything about Hacking and Security technologies 😅
 - 💪🏼 Future Goals : Have my own company - Never stop helping others.
-- ⚡ Fun fact : I love travelling and meditating 🧘.
+- ⚡ Fun fact : I love travelling and Hiking 🚵.
 
 ---
 
@@ -29,11 +29,11 @@
 ### Contact with me 📝
 
    <a href="https://www.linkedin.com/in/mortada-cherrak">
-   <img align="left" alt="mortada-cherrak | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1635678261~hmac=00164e926ba0aab7ff1dd6a785b952b5"/></a>
+   <img align="left" alt="mortada-cherrak | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
    <a href="https://www.instagram.com/mortadacherrak">
-   <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1635678200~hmac=6c909cdfd7d4011a43537fc22425bbce" /></a>
+   <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
    <a href="https://twitter.com/3xTpA">
-   <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1635678232~hmac=8f1ea20c6b07ce0caa8797b682493062" /></a>
+   <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" /></a>
 
 <br/>
 

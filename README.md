@@ -41,7 +41,7 @@
 
 ### Languages and Tools 🛠 
 
-### ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)![Shell](http://img.shields.io/badge/-Bash-343d52?style=flat-square&logo=Shell)![Debian](http://img.shields.io/badge/-Debian-8B0000?style=flat-square&logo=Debian)
+### ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)![CSS3](https://img.shields.io/badge/-CSS3-%23E44D27?style=flat-square&logo=css3&logoColor=ffffff)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)![Shell](http://img.shields.io/badge/-Bash-343d52?style=flat-square&logo=Shell)![Debian](http://img.shields.io/badge/-Debian-8B0000?style=flat-square&logo=Debian)
 
 ------
 

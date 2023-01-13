@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and CyberSec Researcher  🐱‍💻
+## I'm a Computer Science and Data Scientist enthusiast 🐱‍💻
 
-- 📚 I’m currently learning everything about Hacking and Security technologies 😅
-- 💪🏼 Future Goals : Have my own company - Never stop helping others.
-- ⚡ Fun fact : I love travelling and Hiking 🚵.
+- 🌱 I’m currently learning **_Statistics_**, **_R_**, **_MongoDB_**, and **_Big Data_**.
+- 🤝🏼 I’m looking for an _**Data Science**_ **Internship**.
+- ⚡ Ask me about **_Python_**, **_SQL_**, and **_Linux_**.
 
 ---
 
@@ -16,14 +16,9 @@
 
 <p align="center"> 
   <b>Currently Playing🎶...</b><br><br>
-  <img src="https://novatorem.lostgirljourney.vercel.app/api/spotify" href="https://open.spotify.com/user/n0hoht5mougelvmzi1g5f7a3w"/>
 </p>
 
-<!-- can't stop myself from editing🤷... -->
-
-
-<!-- img align="right" src=" https://komarev.com/ghpvc/?username=3xTpA&color=blueviolet&style=plastic" alt="3xTpA" width="120" height="27" / -->
-
+<br>
 <hr>
 
 ### Contact with me 📝
@@ -32,7 +27,7 @@
    <img align="left" alt="mortada-cherrak | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
    <a href="https://www.instagram.com/mortadacherrak">
    <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
-   <a href="https://twitter.com/3xTpA">
+   <a href="https://twitter.com/mortada_cherrak">
    <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" /></a>
 
 <br/>
@@ -48,9 +43,9 @@
 
 ###     My Github Data  📊
 
-![Mortada Cherrak github stats](https://github-readme-stats.vercel.app/api?username=3xTpA&count_private=true&show_icons=true&theme=radical)
+![Mortada Cherrak github stats](https://github-readme-stats.vercel.app/api?username=mortadacherrak&count_private=true&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xTpA&layout=compact&theme=gotham" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortadacherrak&layout=compact&theme=gotham" />
 
 ---
 

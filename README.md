@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science student and Data Scientist enthusiast 🐱‍💻
+## I'm a Artificial Intelligence student ,and Data Scientist enthusiast 🐱‍💻
 
 - 🌱 I’m currently learning **_Statistics_**, **_R_**, **_MongoDB_**, and **_Big Data_**.
 - 🤝🏼 I’m looking for an _**Data Science**_ **Internship**.

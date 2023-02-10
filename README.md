@@ -1,8 +1,13 @@
 # Hi there, I'm Cherrak - Mortada [3xTpA] <img width="40px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 
-<img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+![GitHub User's stars](https://img.shields.io/github/stars/mortadacherrak?logo=trustpilot&logoColor=blueviolet&style=social)
+![GitHub followers](https://img.shields.io/github/followers/mortadacherrak?logoColor=blueviolet&style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://www.github.com/mortadacherrak&count_bg=%23A01212&title_bg=orange&icon=codeigniter.svg&icon_color=blueviolet&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## I'm a Artificial Intelligence student ,and Data Scientist enthusiast 🐱‍💻
+
+<img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 - 🎒 I’m currently studying at _**Abou Bekr Belkaid Tlemcen - UABT**_ University 
 - 🌱 I’m currently learning **_Statistics_**, **_R_**, **_MongoDB_**, and **_Big Data_**.

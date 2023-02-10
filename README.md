@@ -1,3 +1,5 @@
+![MasterHead](https://i.ibb.co/rcX9FhZ/Banner.png)
+
 # Hi there, I'm Cherrak - Mortada [3xTpA] <img width="40px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 
 ![GitHub User's stars](https://img.shields.io/github/stars/mortadacherrak?logo=trustpilot&logoColor=blueviolet&style=social)
@@ -46,10 +48,13 @@
    <a href="https://twitter.com/mortada_cherrak">
    <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" /></a>
 
+<!--
+
 <br>
 <hr>
-
 
 ### Thank You ⭐
 
 <img align="center" alt="GIF" height="400" width="600" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
+
+-->

@@ -23,11 +23,11 @@
 
 <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortadacherrak&theme=radical" alt="mortadacherrak" />
 
-<img src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
+<img width="500" src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
 
-<img src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
+<img width="500" src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
 
-<img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
+<img width="500" src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
 
 <br>
 <hr>

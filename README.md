@@ -21,24 +21,13 @@
 
 ### My Github Data  📊
 
-<table style="border:none; margin:0 auto; text-align:center;">
-  <tr>
-    <td>
-      <p>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortadacherrak&theme=radical" alt="mortadacherrak" />
-      </p>
-    </td>
-    <td>
-      <p>
-        <img src="https://github-readme-statsss-sigma.vercel.app/api username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>Column 1 Row 2</td>
-    <td>Column 2 Row 2</td>
-  </tr>
-</table>
+<img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mortadacherrak&theme=radical" alt="mortadacherrak" />
+
+<img src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
+
+<img src="https://github-readme-statsss-sigma.vercel.app/api?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
+
+<img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=mortadacherrak&show_icons=true&locale=en&theme=radical" alt="mortadacherrak" />
 
 <br>
 <hr>

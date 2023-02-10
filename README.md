@@ -1,9 +1,10 @@
-# Hi there, I'm Cherrak - Mortada [3xTpA] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Cherrak - Mortada [3xTpA] <img width="40px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 ## I'm a Artificial Intelligence student ,and Data Scientist enthusiast 🐱‍💻
 
+- 🎒 I’m currently studying at _**Abou Bekr Belkaid Tlemcen - UABT**_ University 
 - 🌱 I’m currently learning **_Statistics_**, **_R_**, **_MongoDB_**, and **_Big Data_**.
 - 🤝🏼 I’m looking for an _**Data Science**_ **Internship**.
 - ⚡ Ask me about **_Python_**, **_SQL_**, and **_Linux_**.
@@ -29,7 +30,6 @@
    <img align="left" alt="mortadacherrak | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
    <a href="https://twitter.com/mortada_cherrak">
    <img align="left" alt="3xTpA | Twitter" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" /></a>
-
 
 <br/>
 

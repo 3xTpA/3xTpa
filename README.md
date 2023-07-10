@@ -11,7 +11,8 @@
 
 <img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-- 🎒 I’m currently studying at _**Abou Bekr Belkaid Tlemcen - UABT**_ University 
+- 🏆 **First Prize Global Winner**__ - **Cloud Track** at _Huawei ICT Competition 2023_.
+- 🎒 I’m currently studying at _**Abou Bekr Belkaid Tlemcen - UABT**_ University. 
 - 🌱 I’m currently learning **_Statistics_**, **_R_**, **_MongoDB_**, and **_Big Data_**.
 - 🤝🏼 I’m looking for an _**Data Science**_ **Internship**.
 - ⚡ Ask me about **_Python_**, **_SQL_**, and **_Linux_**.
